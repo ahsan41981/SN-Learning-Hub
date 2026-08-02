@@ -25,13 +25,6 @@ It showcases how students can navigate educational content through an organized 
 - CSS3
 - JavaScript (ES6)
 - 
-# Project Structure:
-
-Student-Learning-Management-System/
-│
-├── index.html
-│   ├── style.css
-│   └── script.js
 ```
 # 𝐃𝐞𝐬𝐢𝐠𝐧 𝐆𝐨𝐚𝐥𝐬:
 
