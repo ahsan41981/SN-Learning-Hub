@@ -18,14 +18,14 @@ It showcases how students can navigate educational content through an organized 
 - Mobile-friendly layout
 - Clean and organized design
 - Fast and lightweight performance
-- 
+  
 # Technology Stack:
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- 
-```
+  
+
 # 𝐃𝐞𝐬𝐢𝐠𝐧 𝐆𝐨𝐚𝐥𝐬:
 
 The project was developed with the following objectives:
